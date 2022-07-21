@@ -54,7 +54,7 @@ def edit_sms():
             return render_template('sms.html', sms_form=sms_form)
         elif request.form['sms'] == 'Send SMS':  # TODO change SMS timer value and enable service
             session['code'] = send_sms(session['phone_number'])
-            flash(f"Your code is {session['code']}")  # don't forget to disable
+            flash(f"Your code is {session['code']}")  # TODO don't forget to disable
             return render_template('sms.html', sms_form=sms_form)
     return render_template('sms.html', sms_form=sms_form)
 
