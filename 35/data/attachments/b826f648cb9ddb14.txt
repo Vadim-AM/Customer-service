@@ -1,0 +1,18 @@
+INFO     app:__init__.py:88 All good
+INFO     werkzeug:_internal.py:224 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO     werkzeug:_internal.py:224 [33mPress CTRL+C to quit[0m
+INFO     werkzeug:_internal.py:224 127.0.0.1 - - [25/Jan/2023 07:07:19] "GET /auth/login HTTP/1.1" 200 -
+INFO     werkzeug:_internal.py:224 127.0.0.1 - - [25/Jan/2023 07:07:19] "GET /auth/register HTTP/1.1" 200 -
+INFO     werkzeug:_internal.py:224 127.0.0.1 - - [25/Jan/2023 07:07:19] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO     werkzeug:_internal.py:224 127.0.0.1 - - [25/Jan/2023 07:07:19] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO     werkzeug:_internal.py:224 127.0.0.1 - - [25/Jan/2023 07:07:19] "GET /static/img/icons8-telegram-app.svg HTTP/1.1" 200 -
+INFO     werkzeug:_internal.py:224 127.0.0.1 - - [25/Jan/2023 07:07:19] "GET /static/img/carrot-2.9s-200px.svg HTTP/1.1" 200 -
+INFO     werkzeug:_internal.py:224 127.0.0.1 - - [25/Jan/2023 07:07:19] "GET /static/js/bootstrap.bundle.min.js HTTP/1.1" 200 -
+INFO     werkzeug:_internal.py:224 127.0.0.1 - - [25/Jan/2023 07:07:19] "GET /static/img/icons8-instagram.svg HTTP/1.1" 200 -
+INFO     werkzeug:_internal.py:224 127.0.0.1 - - [25/Jan/2023 07:07:19] "GET /static/img/icons8-facebook.svg HTTP/1.1" 200 -
+INFO     werkzeug:_internal.py:224 127.0.0.1 - - [25/Jan/2023 07:07:19] "GET /static/js/bootstrap.bundle.min.js HTTP/1.1" 200 -
+INFO     werkzeug:_internal.py:224 127.0.0.1 - - [25/Jan/2023 07:07:19] "GET /static/img/carrot-2.9s-200px.svg HTTP/1.1" 200 -
+INFO     werkzeug:_internal.py:224 127.0.0.1 - - [25/Jan/2023 07:07:19] "GET /static/img/icons8-telegram-app.svg HTTP/1.1" 200 -
+INFO     werkzeug:_internal.py:224 127.0.0.1 - - [25/Jan/2023 07:07:20] "GET /static/img/icons8-instagram.svg HTTP/1.1" 200 -
+INFO     werkzeug:_internal.py:224 127.0.0.1 - - [25/Jan/2023 07:07:20] "GET /static/img/icons8-facebook.svg HTTP/1.1" 200 -
